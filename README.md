@@ -21,14 +21,6 @@ A beautiful and interactive weather dashboard featuring a 3D globe visualization
 - Weather Icons
 - OpenStreetMap Nominatim API for geocoding
 
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/weather-dashboard.git
-```
-
-2. Open `index.html` in your web browser
 
 ## Usage
 
@@ -39,10 +31,6 @@ git clone https://github.com/yourusername/weather-dashboard.git
    - Clicking to place markers
    - Dragging to rotate
    - Scrolling to zoom
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
